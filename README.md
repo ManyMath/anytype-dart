@@ -1,1 +1,2 @@
-# anytype-dart
+# `anytype`
+Anytype Dart SDK.
